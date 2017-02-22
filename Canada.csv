@@ -1,0 +1,25 @@
+
+
+
+
+
+
+
+#Titles - 10 results
+#Generated on February 2017 for 
+#"Search: "
+
+
+"row","revision-date","short-name","version-id","entry-id","format","deleted","revision-id","user-id","provider-id","concept-id","native-id","concept-type","entry-title"
+1,"2016-01-12T19:10:49Z","CIESIN_SEDAC_CD_CTY_POPAG_GIS","1.0","CIESIN_SEDAC_CD_CTY_POPAG_GIS_1.0","application/echo10+xml","false","5.0","ECHO_SYS","SEDAC","C179001905-SEDAC","China Dimensions Data Collection: China County-Level Data on Population (Census) and Agriculture, Keyed to 1:1M GIS Map","collection","China Dimensions Data Collection: China County-Level Data on Population (Census) and Agriculture, Keyed to 1:1M GIS Map"
+2,"2016-01-12T19:10:52Z","CIESIN_SEDAC_ENTRI_TEXTS_COL","1.0","CIESIN_SEDAC_ENTRI_TEXTS_COL_1.0","application/echo10+xml","false","6.0","ECHO_SYS","SEDAC","C179001949-SEDAC","Socioeconomic Data and Applications Center (SEDAC) Collection of Treaty Texts","collection","Socioeconomic Data and Applications Center (SEDAC) Collection of Treaty Texts"
+3,"2016-10-14T19:15:44Z","MSU0042","Not provided","MSU0042","application/dif+xml","false","2.0","mmorahan","SCIOPS","C1214606975-SCIOPS","MSU0042","collection","Current Research Information System (CRIS)"
+4,"2016-10-14T19:25:41Z","USDA_AGRICOLA","Not provided","USDA_AGRICOLA","application/dif+xml","false","2.0","mmorahan","SCIOPS","C1214610987-SCIOPS","USDA_AGRICOLA","collection","Agricultural Online Access (AGRICOLA) Database"
+5,"2016-10-18T13:35:29Z","ETI_FarmingMarinePlants","Version 1.0","ETI_FarmingMarinePlants_Version 1.0","application/dif+xml","false","2.0","mgenazzi","SCIOPS","C1214610758-SCIOPS","ETI_FarmingMarinePlants","collection","ETI CD - Cultivation and Farming of Marine Plants"
+6,"2016-12-06T21:28:07Z","Canada_CCRS_QuickSwathBrowser","Not provided","Canada_CCRS_QuickSwathBrowser","application/dif+xml","false","19.0","mmorahan","SCIOPS","C1214608910-SCIOPS","Canada_CCRS_QuickSwathBrowser","collection","Quicklook Swath Browser from Canada Centre for Remote Sensing"
+7,"2016-12-06T21:31:11Z","Canada_Eidetic_GeoSAT2Data","Not provided","Canada_Eidetic_GeoSAT2Data","application/dif+xml","false","2.0","mmorahan","SCIOPS","C1214612137-SCIOPS","Canada_Eidetic_GeoSAT2Data","collection","Geo/SAT 2 Remote Sensing Data Sets"
+8,"2016-12-06T21:31:13Z","Canada_Eidetic_Landsat5TMData","Not provided","Canada_Eidetic_Landsat5TMData","application/dif+xml","false","3.0","mmorahan","SCIOPS","C1214612138-SCIOPS","Canada_Eidetic_Landsat5TMData","collection","Landsat 5 TM Data Sets - Educational Samples"
+9,"2016-12-06T21:31:36Z","Canada_CCRS_NatlAtlas5thEd","Not provided","Canada_CCRS_NatlAtlas5thEd","application/dif+xml","false","19.0","mmorahan","SCIOPS","C1214612443-SCIOPS","Canada_CCRS_NatlAtlas5thEd","collection","The Atlas of Canada - 5th Edition National Atlas of Canada"
+10,"2016-12-06T21:32:59Z","Canada_ESRI_GeographyNetwork","Not provided","Canada_ESRI_GeographyNetwork","application/dif+xml","false","3.0","mmorahan","SCIOPS","C1214615404-SCIOPS","Canada_ESRI_GeographyNetwork","collection","Geography Network Canada"
+
+
